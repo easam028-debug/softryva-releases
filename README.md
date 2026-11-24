@@ -4,7 +4,7 @@ Official software releases and downloads from SoftRyva.
 
 **SoftRyva** is an independent, English-language website covering useful software, Windows utilities, and practical technology guides.
 
-**Official website:** [Visit SoftRyva — software guides and official download sources](https://softryva.blogspot.com/)
+**Official website:** [Visit SoftRyva — software guides and official download sources](https://softryva.com/)
 
 ## What you'll find on SoftRyva
 
@@ -17,7 +17,7 @@ Official software releases and downloads from SoftRyva.
 
 This repository is reserved for distributing official SoftRyva-created software releases when ready. No executable is offered here unless it has been uploaded and identified as a published release.
 
-For software guides and updates, visit the **[SoftRyva website](https://softryva.blogspot.com/)**.
+For software guides and updates, visit the **[SoftRyva website](https://softryva.com/)**.
 
 ---
 
